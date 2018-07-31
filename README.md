@@ -1,6 +1,14 @@
-# ParkimineBot
+# ParkMe
 
-It is my side project to learn ruby language. ParkimineBot is a telegram bot that registrering a car in a parking system via telegram, so you don't need to look for a parking terminal.
+It is my side project to learn ruby language. ParkMe is a telegram bot that registrering a car in a parking system via telegram, so you don't need to look for a parking terminal.
+
+## Commands
+
+/start - start a bot
+/setplate - enter a vehicle registration plate
+/park - register a car on a parking
+/myplate - show actual vehicle registration plate
+/listpark - show the list of available parking
 
 ## Contributing
 
