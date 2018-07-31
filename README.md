@@ -1,6 +1,6 @@
 # ParkimineBot
 
-It is my side project to learn ruby language. ParkimineBot is telegram bot that registrering the car via terminal, so you don't need to find a parking terminal.
+It is my side project to learn ruby language. ParkimineBot is a telegram bot that registrering a car in a parking system via telegram, so you don't need to look for a parking terminal.
 
 ## Contributing
 
